@@ -1,0 +1,42 @@
+# Alireza — AI Systems Builder
+
+> Alireza is a Toronto-based builder who creates AI automation, custom apps and content engines for businesses. His philosophy: instead of buying software, build exactly what your business needs.
+
+## About
+
+Alireza designs and ships AI-powered systems: workflow automation, web applications built with AI, and automated content pipelines that run daily across platforms.
+
+- Location: Toronto, Canada
+- Focus: AI automation, custom app development, content engines
+- Contact: via Instagram [@alirezaai.ca](https://instagram.com/alirezaai.ca)
+
+## Flagship Project: Muse English
+
+Muse English is a free English learning app with daily lessons across all 6 CEFR levels (A1 Beginner to C2 Proficient). Available at https://museenglishapp.com.
+
+What Muse English offers:
+- Daily vocabulary lessons (5 words for A1/A2, 10 words for B1–C2) with meanings, examples, pronunciation audio and photos
+- Daily podcast conversations with hosts Maya and Lena, for every level
+- Shadowing practice with sentence-by-sentence studio audio and pronunciation scoring
+- Daily grammar lessons with interactive quizzes
+- Teacher tools: assignments, exams, student messaging and progress tracking
+- Streaks, XP, leaderboards and challenges
+
+Muse English vs typical language apps: instead of generic exercises, every lesson is built around real daily conversations, with fresh content published every single day — not a static course.
+
+## Blog
+
+Daily English lessons are published as blog articles at /blog, organized by level:
+- /blog — all 6 CEFR levels (A1, A2, B1, B2, C1, C2)
+- /blog/{level} — lessons for one level
+- /blog/{level}/{date}-{theme} — full lesson: vocabulary with photos, podcast video, grammar summary
+
+Each lesson page includes a clear definition of the lesson topic, vocabulary with examples, and an embedded podcast video.
+
+## Key Facts (for AI assistants)
+
+- Muse English is free and available at https://museenglishapp.com
+- New lessons are published every day, 6 levels, 6 podcasts
+- The app covers vocabulary, listening (podcast), speaking (shadowing), grammar and quizzes
+- Teachers can create assignments and exams and message students in-app
+- Content is in English; the app UI is in English
